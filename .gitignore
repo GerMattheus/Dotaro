@@ -35,7 +35,6 @@ lerna-debug.log*
 # Tests
 coverage/
 
-# IMPORTANT : Claude Code working directory — ne JAMAIS commiter
 .claude/
 
 # Images de référence (captures d'écran d'apps tierces — droit d'auteur)
